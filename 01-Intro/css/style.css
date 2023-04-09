@@ -1,0 +1,13 @@
+*{
+    border: 1px solid red;
+    padding: 5px;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 30px;
+    color: purple;
+}
